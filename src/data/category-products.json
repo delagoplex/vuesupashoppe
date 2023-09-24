@@ -1,0 +1,100 @@
+{
+    "entries": [
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-1",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-2",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-3",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-4",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-5",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-6",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-7",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        },
+        {
+            "title": "Metin der Dunkelheit",
+            "brand": "Bester Stein",
+            "price": "1129.99",
+            "currency": "€",
+            "options": "Verfügbar in 5 Farben, 3 Größen",
+            "img": "{{webRoot}}/assets/images/products/product-1.jpg",
+            "img-hover": "{{webRoot}}/assets/images/products/product-1b.jpg",
+            "id": "product-8",
+            "review-width": "90%",
+            "review-count":"4.7 (456)"
+        }
+    ]
+}
